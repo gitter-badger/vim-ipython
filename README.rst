@@ -330,3 +330,8 @@ If you find this project useful, please consider donating money to the
 and gave us all so much. This is one small way we can give back to his family.
 
 .. _John Hunter Memorial Fund: http://numfocus.org/johnhunter/
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/ivanov/vim-ipython
+   :target: https://gitter.im/ivanov/vim-ipython?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
